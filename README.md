@@ -7,7 +7,7 @@
 
 Turn any GitHub repository into an interactive diagram for visualization in seconds.
 
-You can also replace `hub` with `diagram` in any Github URL to access its diagram.
+You can also replace `hub` with `diagram` in any Github URL to access its diagram and ots super was to understand.
 
 ## 🚀 Features
 
